@@ -1,1 +1,87 @@
-post.html
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <meta name="description" content="">
+  <meta name="author" content="">
+
+  <title>Clean Blog - Start Bootstrap Theme</title>
+
+  <!-- Bootstrap core CSS -->
+  <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+
+  <!-- Custom fonts for this template -->
+  <link href="vendor/fontawesome-free/css/all.min.css" rel="stylesheet" type="text/css">
+  <link href='https://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic' rel='stylesheet' type='text/css'>
+  <link href='https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800' rel='stylesheet' type='text/css'>
+
+  <!-- Custom styles for this template -->
+  <link href="css/clean-blog.min.css" rel="stylesheet">
+
+</head>
+
+<body>
+
+  <!-- Navigation -->
+  <nav class="navbar navbar-expand-lg navbar-light fixed-top" id="mainNav">
+    <div class="container">
+      <a class="navbar-brand" href="index.html">Start Bootstrap</a>
+      <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+        Menu
+        <i class="fas fa-bars"></i>
+      </button>
+      <div class="collapse navbar-collapse" id="navbarResponsive">
+        <ul class="navbar-nav ml-auto">
+          <li class="nav-item">
+            <a class="nav-link" href="index.html">Home</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="about.html">About</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="post.html">Sample Post</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="contact.html">Contact</a>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </nav>
+
+  <!-- Page Header -->
+  <header class="masthead" style="background-image: url('img/clem.jpg')">
+    <div class="overlay"></div>
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-8 col-md-10 mx-auto">
+          <div class="post-heading">
+            <h1>Salmon Meets A Bad Man</h1>
+            <h2 class="subheading">A man named after a fish finds it hard to be human.</h2>
+            <span class="meta">Written by
+              <a href="#">Juliet Lacey</a>
+              on October 27th, 2018</span>
+          </div>
+        </div>
+      </div>
+    </div>
+  </header>
+
+  <!-- Post Content -->
+  <article>
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-8 col-md-10 mx-auto">
+          <p>Dear Ivan,</p>
+
+          <p>I understand you’ve written in hopes of sewing up the final threads that remain frayed and untouched since our mother’s death. The will has never been my top concern, what with how I have felt the cruelty of divinity lately. I’ve found myself, more and more, waking up gasping as sweat pours down my skin. Beads, like thousands of ants crawling off my body. As if the ants cannot stand to touch me either! My god! This incessant pain—when Lord-when will we stop growing?</p>
+
+          <p>Mother’s death has affected me as well. I do, sometimes, think of the way she touched my cheek before bed when we were just boys. Some days, in the morning as I drink a cup of coffee I must take a shaky breath when I realize she is gone. But what has cut me deeper is the wound that Miley has left.</p>
+
+          <p>I found a blonde hair in my bed, a long one, the length from my elbow to my shoulder. I cried for thirty minutes, maybe more—the kind of cry when you can’t see what’s in front of you anymore. For months I thought she was cheating on me, but with this blonde hair, I suddenly knew. Do you know what it is like to have been lied to for almost half your life? You Ivan, you always said there was something off about my wife. You are an astute man. You always have been.</p>
+          
+          <p>Brother, I must give you, in writing, consent to do as you must with the will. I understand I am in no state to follow through with the wishes of our dear Frances. I read the legal documents she has left behind and I weep, for I will never know a love so gentle again. Miley has left me broken in a cold home, unable to see the daily activities I must get done. For each trivial object remains blurred by the tears in my eyes, from the time I wake up, to the time I let my body curl up into itself with the thought, ‘take me, mind, to a celestial place far from the truths I must endure when the sun is up.’ 
+.</p>
